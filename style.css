@@ -65,3 +65,6 @@ li button:hover {
   margin: 0 auto;
   margin-top: 40px;
 }
+#error{
+  color:red;
+}
